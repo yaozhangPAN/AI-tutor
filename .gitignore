@@ -1,8 +1,0 @@
-# Ignore all training data by default
-*
-
-# Allow markdown documents
-!*.md
-
-# Allow gitignore itself
-!.gitignore
